@@ -1,5 +1,5 @@
 # spotify-API_python_postgres
-This project showcases an end-to-end ETL (Extract, Transform, Load) pipeline that extracts data from the Spotify API using Python, transforms the data, and loads it into a PostgreSQL database. This demonstrates a simple and practical data engineering skills using real-world data.
+This project showcases an end-to-end ETL (Extract, Transform, Load) pipeline that extracts data from the Spotify API using Python, transforms the data, and loads it into a PostgreSQL database. This demonstrates practical data engineering skills using real-world data.
 
 ## Overview
 This simple ETL pipeline does the following:
